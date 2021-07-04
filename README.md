@@ -1,2 +1,2 @@
 # impostorcpu
-sus
+sus :: outdated branch
